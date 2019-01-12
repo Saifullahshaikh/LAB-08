@@ -1,0 +1,10 @@
+print('SAIFULLAH SHAIKH, 18B-092-CS, A')
+print('P.Ex.5')
+message = 'The secret of this message is that it is secret.'
+print('a) Message = ', message)
+length = len(message)
+print('b) ', length, 'Characters')
+count = message.count('secret')
+print('c) ', count, 'times')
+censored = message.replace('secret', 'xxxxxx')
+print('d) Censored = ', censored)

@@ -1,0 +1,4 @@
+print("saifullah, 18B-092-CS, A")
+print("Task 2")
+s= 'hello'
+print(s[0])
